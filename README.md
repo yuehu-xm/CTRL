@@ -1,6 +1,6 @@
 # CTRL for Wind Power Forecasting
 
-### CTRL: Collaborative Temporal Representation Learning for Wind Power Forecasting [[Paper](https://dl.acm.org/doi/abs/10.1145/3711129.3711336)]
+### CTRL: Collaborative Temporal Representation Learning for Wind Power Forecasting [[Paper](https://doi.org/10.1145/3711129.3711336)]
 
 ## News
 
