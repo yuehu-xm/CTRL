@@ -1,23 +1,24 @@
-# CTRL: Time Series Forecasting Model
+<div align="center">
+  <h2><b> (EITCE'2024) CTRL: Collaborative Temporal Representation Learning for Wind Power Forecasting </b></h2>
+</div>
 
-### CTRL: Collaborative Temporal Representation Learning for Wind Power Forecasting
+<div align="center">
 
-[[Doi](https://doi.org/10.1145/3711129.3711336)]
-[[ACM](https://dl.acm.org/doi/10.1145/3711129.3711336)]
-[[PDF](eitce2024-Hu%20(CTRL%20Collaborative%20Temporal%20Representation%20Learning%20for%20Wind%20Power%20Forecasting).pdf)]
-[[Google Scholar](https://scholar.google.com.hk/citations?user=3BZDW4oAAAAJ)]
+**[<a href="https://doi.org/10.1145/3711129.3711336">Doi</a>]**
+**[<a href="eitce2024-Hu%20(CTRL%20Collaborative%20Temporal%20Representation%20Learning%20for%20Wind%20Power%20Forecasting).pdf">PDF</a>]
+**[<a href="https://scholar.google.com.hk/citations?user=3BZDW4oAAAAJ">Google Scholar</a>]**
 
-The implementation of the **CTRL** model can be found in the [**`model_ctrl.py (Click here)`**](model_ctrl.py) file in
-this
-repository.
+</div>
 
-## News
+The complete implementation of the **CTRL** model is provided in [**model_ctrl.py**](model_ctrl.py) within this repository.
 
-🎉🎉🎉 **CTRL** model has been integrated
-into [pyFAST: Flexible, Advanced Framework for Multi-source and Sparse Time Series Analysis in PyTorch](https://github.com/freepose/pyFAST).
-The implementation details can be found [here](https://github.com/freepose/pyFAST/blob/main/fast/model/mts/coat.py).
+## Updates
 
-## Model Architecture
+🚩 **News** (2025.08): TCOAT has been included in [[**pyFAST**]](https://github.com/freepose/pyFAST). For implementation
+details, see the [**TCOAT model code**](https://github.com/freepose/pyFAST/blob/main/fast/model/mts/coat.py) in pyFAST's
+MTS module.
+
+## Overall Architecture
 
 ![Model Architecture](model_architecture.png)
 
@@ -51,6 +52,8 @@ If you find this work useful in your research, please use the following citation
 
 **APA/Plain formats:**
 
+```
 Yue Hu and Senzhen Wu and Yu Chen and Xinhao He and Zihao Xie and Zhijin Wang and Xiufeng Liu and Yonggang Fu. CTRL:
 Collaborative Temporal Representation Learning for Wind Power Forecasting. ACM EITCE
 2024, https://doi.org/10.1145/3711129.3711336
+```
