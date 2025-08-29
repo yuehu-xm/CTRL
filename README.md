@@ -1,6 +1,16 @@
-# CTRL for Wind Power Forecasting
+# CTRL: Time Series Forecasting Model
 
-### CTRL: Collaborative Temporal Representation Learning for Wind Power Forecasting [[Paper](https://doi.org/10.1145/3711129.3711336)]
+### CTRL: Collaborative Temporal Representation Learning for Wind Power Forecasting
+
+[[Doi](https://doi.org/10.1145/3711129.3711336)]
+[[ACM](https://dl.acm.org/doi/10.1145/3711129.3711336)]
+
+[//]: # ([[PDF]&#40;apen2024-Hu%20&#40;Temporal%20collaborative%20attention%20for%20wind%20power%20forecasting&#41;.pdf&#41;])
+[[Code](https://github.com/yuehu-xm/CTRL-TimeSeriesForecasting)]
+[[Google Scholar](https://scholar.google.com.hk/citations?user=3BZDW4oAAAAJ)]
+
+The implementation of the **CTRL** model can be found in the [**`model_ctrl.py (Click here)`**](model_ctrl.py) file in this
+repository.
 
 ## News
 
@@ -12,12 +22,12 @@ The implementation details can be found [here](https://github.com/freepose/pyFAS
 
 ![Model Architecture](model_architecture.png)
 
-The implementation of the **CTRL** model can be found in the [`model_ctrl.py`](model_ctrl.py) file in this repository.
+
 
 ## Requirements
 
 - Python 3.10+
-- PyTorch 2.3.1+
+- PyTorch 2.0.0+
 
 ## Contact
 
