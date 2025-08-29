@@ -5,7 +5,7 @@
 <div align="center">
 
 **[<a href="https://doi.org/10.1145/3711129.3711336">Doi</a>]**
-**[<a href="eitce2024-Hu%20(CTRL%20Collaborative%20Temporal%20Representation%20Learning%20for%20Wind%20Power%20Forecasting).pdf">PDF</a>]
+**[<a href="eitce2024-Hu%20(CTRL%20Collaborative%20Temporal%20Representation%20Learning%20for%20Wind%20Power%20Forecasting).pdf">PDF</a>]**
 **[<a href="https://scholar.google.com.hk/citations?user=3BZDW4oAAAAJ">Google Scholar</a>]**
 
 </div>
