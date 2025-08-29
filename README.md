@@ -14,8 +14,8 @@ The complete implementation of the **CTRL** model is provided in [**model_ctrl.p
 
 ## Updates
 
-🚩 **News** (2025.08): TCOAT has been included in [[**pyFAST**]](https://github.com/freepose/pyFAST). For implementation
-details, see the [**TCOAT model code**](https://github.com/freepose/pyFAST/blob/main/fast/model/mts/coat.py) in pyFAST's
+🚩 **News** (2025.08): CTRL has been included in [[**pyFAST**]](https://github.com/freepose/pyFAST). For implementation
+details, see the [**CTRL model code**](https://github.com/freepose/pyFAST/blob/main/fast/model/mts/coat.py) in pyFAST's
 MTS module.
 
 ## Overall Architecture
