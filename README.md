@@ -22,14 +22,10 @@ MTS module.
 
 ![Model Architecture](model_architecture.png)
 
-## Requirements
+### Requirements
 
 - Python 3.10+
 - PyTorch 2.0.0+
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at [yuehu.xm@gmail.com](yuehu.xm@gmail.com).
 
 ## Citation
 
@@ -57,3 +53,13 @@ Yue Hu and Senzhen Wu and Yu Chen and Xinhao He and Zihao Xie and Zhijin Wang an
 Collaborative Temporal Representation Learning for Wind Power Forecasting. ACM EITCE
 2024, https://doi.org/10.1145/3711129.3711336
 ```
+
+## Acknowledgement
+
+We appreciate the following GitHub repos a lot for their valuable code and efforts.
+- pyFAST (https://github.com/freepose/pyFAST)
+- TCOAT (https://github.com/yuehu-xm/TCOAT)
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact me at [yuehu.xm@gmail.com](mailto:yuehu.xm@gmail.com).
