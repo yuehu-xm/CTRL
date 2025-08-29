@@ -4,7 +4,7 @@
 
 [[Doi](https://doi.org/10.1145/3711129.3711336)]
 [[ACM](https://dl.acm.org/doi/10.1145/3711129.3711336)]
-[[PDF](EITCE2024-Hu%20(CTRL%20Collaborative%20Temporal%20Representation%20Learning%20for%20Wind%20Power%20Forecasting).pdf)]
+[[PDF](eitce2024-Hu%20(CTRL%20Collaborative%20Temporal%20Representation%20Learning%20for%20Wind%20Power%20Forecasting).pdf)]
 [[Google Scholar](https://scholar.google.com.hk/citations?user=3BZDW4oAAAAJ)]
 
 The implementation of the **CTRL** model can be found in the [**`model_ctrl.py (Click here)`**](model_ctrl.py) file in
